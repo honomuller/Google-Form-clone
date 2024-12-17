@@ -12,9 +12,6 @@ var token = ""
 
 // Or, for ESM: import twilio from "twilio";
 
-const accountSid = 'ACd10fae6aca0ee42762a1d0688368ccaf';
-const authToken = '9786147ff650f451168d30280a9ad630';
-const client = twilio(accountSid, authToken);
 
 const otpStore = {}
 
